@@ -30,5 +30,5 @@ This project demonstrates how to detect deepfake videos using frame-by-frame ana
 
 ## Credits
 
-Built by Richard Khristi – July 2025  
+Built by Richard Khristi – January 2025  
 GitHub: [https://github.com/RICHARDKHRISTI]
