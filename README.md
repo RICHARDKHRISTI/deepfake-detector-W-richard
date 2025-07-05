@@ -19,7 +19,7 @@ This project demonstrates how to detect deepfake videos using frame-by-frame ana
 
 ## Results
 
-![Comparison Output](images/comparison_output.png)
+![Comparison Output] [https://github.com/RICHARDKHRISTI/deepfake-detector-W-richard/blob/6583a1c6b58a143bb84ab0f47667378d6eee6196/imagescomparisonoutput.png]
 
 ## How to Use
 
